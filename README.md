@@ -1,1 +1,3 @@
-YG-CMS is a demo project which is based on CodeIgniter 3.
+This is a demo project which is based on CodeIgniter 3.
+It is same as YG-CMS.
+
